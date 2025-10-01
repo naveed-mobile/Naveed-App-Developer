@@ -1,13 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# [https://github.com/FlutterSmith](https://github.com/FlutterSmith)
-
-create .md file for me from above github profile
-
-Here is a well-formatted Markdown (.md) content for a profile README inspired by the provided GitHub profile and attached content.[^1]
-
-***
-
 # Naveed Akhtar — FlutterDev
 
 ❤️ Lovin' life
